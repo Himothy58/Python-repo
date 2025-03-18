@@ -1,2 +1,2 @@
-# Python1
-The first python assignment.
+# Python2
+The second week python assignment.
