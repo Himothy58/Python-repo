@@ -1,0 +1,17 @@
+This notebook provides a comprehensive analysis of your COVID-19 dataset. You can run each cell sequentially in Jupyter Notebook. The analysis includes:
+
+Data loading and cleaning
+
+Exploratory data analysis
+
+Time series trends
+
+Vaccination progress
+
+Correlation analysis
+
+Country-specific breakdowns
+
+Advanced visualizations (if Plotly is installed)
+
+Key insights and summary statistics
